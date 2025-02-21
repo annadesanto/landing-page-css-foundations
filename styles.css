@@ -140,3 +140,8 @@ blockquote {
     font-weight: 200;
     color: #1f2937;
 }
+
+footer {
+    text-align: center;
+    padding: 3%;
+} 
